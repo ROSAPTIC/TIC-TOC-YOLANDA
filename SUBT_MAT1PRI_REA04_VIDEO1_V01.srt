@@ -1,0 +1,266 @@
+﻿1
+00:00:15,550 --> 00:00:18,250
+¡Hola chicas y chicos!
+
+2
+00:00:18,250 --> 00:00:24,850
+Hoy, vamos a aprender cosas 
+sobre las cuatro estaciones del año.
+
+3
+00:00:24,850 --> 00:00:30,900
+Las estaciones del año son períodos 
+de tiempo en que se divide el año. 
+
+4
+00:00:30,900 --> 00:00:33,700
+Son: la primavera,
+
+5
+00:00:33,700 --> 00:00:36,225
+el verano,
+
+6
+00:00:36,225 --> 00:00:38,220
+el otoño 
+
+7
+00:00:38,220 --> 00:00:40,220
+y el invierno.
+
+8
+00:00:40,220 --> 00:00:44,800
+Siempre ocurren en el mismo
+ orden siguiendo un ciclo. 
+
+9
+00:00:44,800 --> 00:00:47,450
+O sea, cuando acaba el invierno, 
+
+10
+00:00:47,450 --> 00:00:49,725
+empieza otra vez la primavera
+
+11
+00:00:49,720 --> 00:00:51,300
+y luego el verano, 
+
+12
+00:00:51,300 --> 00:00:53,100
+y luego el otoño, 
+
+13
+00:00:53,100 --> 00:00:54,600
+y luego el invierno,
+
+14
+00:00:54,600 --> 00:00:56,600
+y otra vez la primavera,
+
+15
+00:00:56,600 --> 00:00:58,600
+y así siempre.
+
+16
+00:00:58,600 --> 00:01:02,600
+Cada estación tiene sus características.
+
+17
+00:01:02,600 --> 00:01:05,375
+Vamos a aprenderlas.
+
+18
+00:01:05,370 --> 00:01:08,350
+La primavera. 
+
+19
+00:01:08,350 --> 00:01:10,850
+Empieza el 20 de marzo
+
+20
+00:01:10,850 --> 00:01:13,975
+y termina el 21 de junio. 
+
+21
+00:01:13,970 --> 00:01:18,800
+En primavera, los días 
+son cada vez más largos.
+
+22
+00:01:18,800 --> 00:01:20,725
+Aunque llueve bastante, 
+
+23
+00:01:20,720 --> 00:01:24,650
+sube la temperatura 
+y no hace mucho frío. 
+
+24
+00:01:24,650 --> 00:01:27,650
+Las montañas se deshielan.
+
+25
+00:01:27,650 --> 00:01:30,200
+Las plantas florecen. 
+
+26
+00:01:30,200 --> 00:01:35,950
+Y algunos animales terminan 
+la hibernación y vienen muchas aves 
+
+27
+00:01:35,950 --> 00:01:38,650
+a disfrutar el calorcito.
+
+28
+00:01:38,650 --> 00:01:41,225
+El verano. 
+
+29
+00:01:41,220 --> 00:01:43,900
+Empieza el 21 de junio 
+
+30
+00:01:43,900 --> 00:01:46,750
+y termina el 23 de septiembre. 
+
+31
+00:01:46,750 --> 00:01:49,900
+En verano, los días son largos, 
+
+32
+00:01:49,900 --> 00:01:51,950
+y las noches cortas.
+
+33
+00:01:51,950 --> 00:01:55,100
+Llueve poco, sube la temperatura 
+
+34
+00:01:55,100 --> 00:01:57,225
+y hace bastante calor. 
+
+35
+00:01:57,220 --> 00:02:02,600
+La mayoría de las plantas 
+dan sus frutos en verano.
+
+36
+00:02:02,600 --> 00:02:04,675
+El otoño. 
+
+37
+00:02:04,670 --> 00:02:07,875
+Empieza el 23 de septiembre 
+
+38
+00:02:07,870 --> 00:02:11,150
+y termina el 21 de diciembre. 
+
+39
+00:02:11,150 --> 00:02:14,925
+En otoño, los días son cada vez 
+
+40
+00:02:14,920 --> 00:02:17,550
+más cortos, y suele llover.
+
+41
+00:02:17,550 --> 00:02:20,650
+La temperatura comienza a bajar. 
+
+42
+00:02:20,650 --> 00:02:23,550
+A los árboles de hoja caduca,
+
+43
+00:02:23,550 --> 00:02:25,950
+ las hojas se les secan,
+
+44
+00:02:25,950 --> 00:02:30,625
+se ponen de color ocre o 
+marrón y se les caen. 
+
+45
+00:02:30,620 --> 00:02:33,750
+Muchos animales recolectan alimentos
+
+46
+00:02:33,750 --> 00:02:36,725
+y crean refugios para el invierno, 
+
+47
+00:02:36,720 --> 00:02:39,925
+y otros, como muchas aves, 
+
+48
+00:02:39,920 --> 00:02:43,675
+emigran hacia sitios más cálidos.
+
+49
+00:02:44,175 --> 00:02:46,625
+El invierno. 
+
+50
+00:02:46,620 --> 00:02:49,900
+Empieza el 21 de diciembre 
+
+51
+00:02:49,900 --> 00:02:53,075
+y termina el 20 de marzo. 
+
+52
+00:02:53,070 --> 00:02:56,825
+En invierno, los días son más cortos,
+
+53
+00:02:56,820 --> 00:02:59,325
+ y las noches más largas. 
+
+54
+00:02:59,320 --> 00:03:02,875
+La temperatura baja y hace frío. 
+
+55
+00:03:02,870 --> 00:03:06,525
+Llueve e incluso puede nevar. 
+
+56
+00:03:06,520 --> 00:03:10,625
+Los árboles de hoja caduca 
+se quedan sin hojas.
+
+57
+00:03:10,620 --> 00:03:14,750
+Muchos animales suelen pasar
+ el invierno en sus refugios,
+
+58
+00:03:14,750 --> 00:03:19,975
+y las aves, como ya hemos dicho, 
+en países más cálidos.
+
+59
+00:03:20,225 --> 00:03:25,300
+¿Y qué ocurrirá cuando 
+termina el invierno?
+
+60
+00:03:25,725 --> 00:03:28,025
+¡Muy bien! 
+
+61
+00:03:28,020 --> 00:03:33,500
+Llega otra vez la primavera 
+y así ocurre siempre.
+
+62
+00:03:33,500 --> 00:03:38,500
+¡Me ha encantado estar con 
+vosotros y con vosotras! 
+
+63
+00:03:38,500 --> 00:03:43,075
+¡Hasta otra, chicos y chicas!
+
